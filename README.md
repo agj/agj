@@ -11,3 +11,17 @@ The following are more or less in order of decreasing familiarity or expertise.
 | Databases | MySQL/MariaDB, SQLite, Postgres, Redis |
 | DevOps | Bitbucket Pipelines, Nix, AWS, Github Actions, Docker, Fly.io |
 | Other tech | HTML, CSS, SQL, Git, Node, Vue, Jest, Tailwind CSS, Storybook, Less, Sass |
+
+## Some projects
+
+| Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Context | Description |
+| --- | --- | --- |
+| [elm-knobs](https://github.com/agj/elm-knobs) | Elm | Package that offers an easy way to create a control panel to manipulate values interactively. Useful for prototypes and for the exploration stage of a UI project. |
+| [dot-into](https://github.com/agj/dot-into) | TypeScript/JavaScript | A microlibrary for a sort of “pseudo-syntax extension” to do function piping using the globally-available `.into()` method. |
+| [3000-traditional-hanzi](https://github.com/agj/3000-traditional-hanzi) | Language learning | A resource for studying traditional Chinese characters. It's a table of characters sorted by optimal study order, ready to input into a flashcards software. |
+| [Spwords](https://github.com/agj/spwords) | Game; Elm | Sports-themed typing game in which you come up with words that contain certain letters as quickly as possible. |
+| [Cielos](https://github.com/agj/cielos) | Game; Gleam | Simple game in which you fly around an ethereal environment collecting stars. |
+| [Tielmaps](https://github.com/agj/tielmaps) | Elm | A code foundation for a basic pixelly platformer. |
+| [Flower Pattern](https://github.com/agj/flowerpattern) | Digital toy | Draw pretty patterns on your screen! Old code. |
+| [Userscripts](https://github.com/agj/agj-userscripts) | Web browser | Extensions to websites that can be installed using [Greasemonkey](https://www.greasespot.net/) or similar browser add-ons. |
+| [Bookmarklets](https://github.com/agj/bookmarklets) | Web browser | A small collection of lightweight utilities for the browser. |
