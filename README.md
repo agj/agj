@@ -7,7 +7,7 @@ Hi! I'm agj.
 - I'm a programmer/developer/whatever you wanna call it with a background in design and art. Not an engineer.
 - My output's mostly been centered around web frontend, games, Flash (I'm old), UI and other visual interactive stuff.
 - I also have plenty of experience doing full-stack web work and other various things, in fact.
-- I'm a functional programmer!
+- I'm a functional programmer! Hire me if you do functional!
 - I'm a huge languages nerd. 目前我在學的是中文！
 - I do not use any sort of LLM/“agent”/gen-AI thing. 🚫🤖
 
