@@ -1,5 +1,9 @@
 # 👀
 
+I'm agj, a programmer/developer/whatever you wanna call it, with a background in design and art. I'm not an engineer, so my output's mostly been centered around web frontend, games, UI and other visual interactive stuff. But I also have plenty of experience doing full-stack web work and other various things. I'm also a huge languages nerd.
+
+All my code here was written by me, not by any sort of LLM or gen-AI thing.
+
 ## Stuff I know
 
 The following are more or less in order of decreasing familiarity or expertise.
