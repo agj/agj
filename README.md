@@ -28,6 +28,7 @@ The following are more or less in order of decreasing familiarity or expertise.
 | Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Context | Description |
 | --- | --- | --- |
 | [elm-knobs](https://github.com/agj/elm-knobs) | Elm | Package that offers an easy way to create a control panel to manipulate values interactively. Useful for prototypes and for the exploration stage of a UI project. |
+| [elm-simple-icons](https://github.com/agj/elm-simple-icons) | Elm | Port of [Simple Icons](https://simpleicons.org/) (SVG brand icons project) to Elm. |
 | [dot-into](https://github.com/agj/dot-into) | TypeScript/JavaScript | A microlibrary for a sort of “pseudo-syntax extension” to do function piping using the globally-available `.into()` method. |
 | [3000-traditional-hanzi](https://github.com/agj/3000-traditional-hanzi) | Language learning | A resource for studying traditional Chinese characters. It's a table of characters sorted by optimal study order, ready to input into a flashcards software. |
 | [Spwords](https://github.com/agj/spwords) | Game; Elm | Sports-themed typing game in which you come up with words that contain certain letters as quickly as possible. |
