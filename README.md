@@ -2,6 +2,8 @@
 
 Hi! I'm agj.
 
+I've just begun the process of migrating away from Github—my next projects might show up on [Codeberg](https://codeberg.org/agjcl) and not here.
+
 ## A bit about me
 
 - I'm a programmer/developer/whatever you wanna call it with a background in design and art. Not an engineer.
@@ -9,7 +11,7 @@ Hi! I'm agj.
 - I also have plenty of experience doing full-stack web work and other various things, in fact.
 - I'm a functional programmer! Hire me if you do functional!
 - I'm a huge languages nerd. 目前我在學的是中文！
-- I do not use any sort of LLM/“agent”/gen-AI thing. 🚫🤖
+- I do not use any sort of LLM/“agent”/gen-AI thing. 🚫🤖 [Here's why.](https://codeberg.org/small-hack/open-slopware/src/commit/7dcf4d08e163a3cab495c6310f81150cfa0a04ed/README.md#why-not-llms)
 
 ## Stuff I know
 
