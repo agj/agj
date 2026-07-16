@@ -18,7 +18,7 @@ I've just begun the process of migrating away from Github—my next projects mig
 The following are more or less in order of decreasing familiarity or expertise.
 
 | Category | The stuff |
-| --- | --- |
+| :-- | :-- |
 | Programming languages | TypeScript, JavaScript, Elm, Nushell, Bash, PHP, Gleam, OCaml, Clojure, Racket, Elixir, Python, Lua |
 | Human languages | Spanish, English, Japanese, Mandarin Chinese |
 | Databases | MySQL/MariaDB, SQLite, Postgres, Redis |
@@ -27,8 +27,8 @@ The following are more or less in order of decreasing familiarity or expertise.
 
 ## Some projects
 
-| Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Context | Description |
-| --- | --- | --- |
+| Name&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; | Context&emsp;&emsp;&emsp;&emsp; | Description&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; |
+| :-- | :-- | :-- |
 | [elm-knobs](https://github.com/agj/elm-knobs) | Elm | Package that offers an easy way to create a control panel to manipulate values interactively. Useful for prototypes and for the exploration stage of a UI project. |
 | [elm-simple-icons](https://github.com/agj/elm-simple-icons) | Elm | Port of [Simple Icons](https://simpleicons.org/) (SVG brand icons project) to Elm. |
 | [dot-into](https://github.com/agj/dot-into) | TypeScript/JavaScript | A microlibrary for a sort of “pseudo-syntax extension” to do function piping using the globally-available `.into()` method. |
