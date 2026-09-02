@@ -2,7 +2,7 @@
 
 Hi! I'm agj.
 
-I'm migrating away from Github! My newest repos are all on [Codeberg](https://codeberg.org/agjcl) and not here.
+I'm [migrating away from Github](https://blog.agj.cl/2026/07/saraba-github)! My newest repos are all on [Codeberg](https://codeberg.org/agjcl) and not here.
 
 ## A bit about me
 
@@ -11,7 +11,7 @@ I'm migrating away from Github! My newest repos are all on [Codeberg](https://co
 - I also have plenty of experience doing full-stack web work and other various things, in fact.
 - I'm a functional programmer! Hire me if you do functional!
 - I'm a huge languages nerd. 目前我在學的是中文！
-- I do not use any sort of LLM/“agent”/gen-AI thing. 🚫🤖 [Here's why.](https://codeberg.org/ethical-foss/open-slopware/src/commit/32c791abfb842e011cb4d787a37fb3f8c31480a8/why_not_llms.md)
+- I do not use any sort of LLM/“agent”/gen-AI thing, ever. 🚫🤖 [Here's why.](https://codeberg.org/ethical-foss/open-slopware/src/commit/32c791abfb842e011cb4d787a37fb3f8c31480a8/why_not_llms.md)
 
 ## Stuff I know
 
