@@ -2,7 +2,7 @@
 
 Hi! I'm agj.
 
-I've just begun the process of migrating away from Github—my next projects might show up on [Codeberg](https://codeberg.org/agjcl) and not here.
+I'm migrating away from Github! My newest repos are all on [Codeberg](https://codeberg.org/agjcl) and not here.
 
 ## A bit about me
 
