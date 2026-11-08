@@ -12,8 +12,8 @@ ones are still on [GitHub](https://github.com/agj).
 - My output's mostly been centered around web frontend, games, Flash (I'm old,) UI, and other visual interactive stuff.
 - But, I also have plenty of experience doing full-stack web work and other various things.
 - I'm a functional programmer! Hire me if you do functional!
-- I'm a huge languages nerd. 目前我在學的是中文！
-- I do not use any sort of LLM/“agent”/gen-AI thing, ever. 🚫🤖 [Here's why.](https://codeberg.org/ethical-foss/open-slopware/src/commit/32c791abfb842e011cb4d787a37fb3f8c31480a8/why_not_llms.md)
+- I'm a huge languages nerd. 目前我主要學的是中文！
+- I do not use any sort of LLM/“agent”/gen-AI thing, ever. 🚫🤖 [Here's why.](https://whynoai.info)
 
 ## Stuff I know
 
